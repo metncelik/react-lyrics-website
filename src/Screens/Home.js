@@ -30,8 +30,8 @@ const Home = () => {
             )}
             {data && (
             <div>
-            <SongList songs={data.slice(0,20)} title="Yeni Şarkı Sözleri"/>
-            <SongList songs={data.slice(0,20)} title="Popüler Şarkı Sözleri"/>
+            <SongList songs={data.slice(0,20)} title="New Lyrics"/>
+            <SongList songs={data.slice(0,20)} title="Popular Lyrics"/>
             </div>
             )}
         

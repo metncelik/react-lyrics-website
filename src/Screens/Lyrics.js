@@ -42,7 +42,7 @@ const Lyrics = () => {
                             <div style={{flex:"4", display: "flex", flexWrap: "wrap" }}>
                                 <div style={{ flex:"3", minWidth:"380px"}} id="lyrics" className="lyrics ly-body">...</div>
                                 <div style={{ flex:"1",minWidth:"270px"}} className="lyrics ly-sidebar">
-                                    <h3>Yeni Şarkı Sözleri</h3>
+                                    <h3>Related Lyrics</h3>
                                 </div>
                             </div>
                         </div>
